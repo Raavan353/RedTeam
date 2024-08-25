@@ -1,4 +1,5 @@
 Windows Domain Reconnaissance & Enumeration
+
 We will cover reconnaissance and enumeration activities in the following scenarios:
 • Using a sniffer or a network scanning tool
 • Through a non-domain joined Linux machine, without a Windows shell
